@@ -1,6 +1,6 @@
 # C++ 模版元编程
 
-> 原文：[`zh.annas-archive.org/md5/fa44116af1a433afa47ff628987a2494`](https://zh.annas-archive.org/md5/fa44116af1a433afa47ff628987a2494)
+> 原文：[Template Metaprogramming with C++ : Learn Everything About C++ Templates and Unlock the Power of Template Metaprogramming](https://zh.annas-archive.gl/md5/fa44116af1a433afa47ff628987a2494)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

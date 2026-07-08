@@ -1,6 +1,6 @@
 # 虚幻 5 游戏体验提升指南
 
-> 原文：[`zh.annas-archive.org/md5/4874f44e9361c6ef0ac1504ae04d33fa`](https://zh.annas-archive.org/md5/4874f44e9361c6ef0ac1504ae04d33fa)
+> 原文：[Elevating Game Experiences with Unreal Engine 5: Bring your game ideas to life using the new Unreal Engine 5 and C++, 2nd Edition](https://zh.annas-archive.gl/md5/4874f44e9361c6ef0ac1504ae04d33fa)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

@@ -1,6 +1,6 @@
 # QT6 C++ GUI 编程秘籍
 
-> 原文：[`zh.annas-archive.org/md5/abba4d8c7c68545e3294fde74215b6c4`](https://annas-archive.org/md5/abba4d8c7c68545e3294fde74215b6c4)
+> 原文：[Qt 6 C++ GUI Programming Cookbook, 3rd Edition](https://annas-archive.gl/md5/abba4d8c7c68545e3294fde74215b6c4)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

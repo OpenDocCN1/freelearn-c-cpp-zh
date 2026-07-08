@@ -1,6 +1,6 @@
 # Code::Blocks 和 C++ 应用开发
 
-> 原文：[`zh.annas-archive.org/md5/D136533EB1CB1D754CE9EE199A478703`](https://zh.annas-archive.org/md5/D136533EB1CB1D754CE9EE199A478703)
+> 原文：[C++ application development with Code::Blocks : develop advanced applications with Code::Blocks quickly and efficiently with this concise, hands-on guide](https://zh.annas-archive.gl/md5/D136533EB1CB1D754CE9EE199A478703)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

@@ -1,6 +1,6 @@
 # Godot4 游戏开发项目第二版
 
-> 原文：[`zh.annas-archive.org/md5/1c4ab12fac2648c1de4cd3b35a7e3832`](https://zh.annas-archive.org/md5/1c4ab12fac2648c1de4cd3b35a7e3832)
+> 原文：[Godot 4 Game Development Projects - Second Edition](https://zh.annas-archive.gl/md5/1c4ab12fac2648c1de4cd3b35a7e3832)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

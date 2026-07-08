@@ -1,6 +1,6 @@
 # Cocos2dx 示例第二版
 
-> 原文：[`zh.annas-archive.org/md5/a4a843abf477b0b4566b113adb686bf1`](https://zh.annas-archive.org/md5/a4a843abf477b0b4566b113adb686bf1)
+> 原文：[Cocos2d-x by Example: Beginner's Guide - Second Edition](https://zh.annas-archive.gl/md5/a4a843abf477b0b4566b113adb686bf1)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

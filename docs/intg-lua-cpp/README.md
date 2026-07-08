@@ -1,6 +1,6 @@
 # C++ Lua 集成指南
 
-> 原文：[`zh.annas-archive.org/md5/5bc17169f6fdf6c164eed4c5bdc7d221`](https://zh.annas-archive.org/md5/5bc17169f6fdf6c164eed4c5bdc7d221)
+> 原文：[Integrate Lua with C++ : Seamlessly Integrate Lua Scripting to Enhance Application Flexibility](https://zh.annas-archive.gl/md5/5bc17169f6fdf6c164eed4c5bdc7d221)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

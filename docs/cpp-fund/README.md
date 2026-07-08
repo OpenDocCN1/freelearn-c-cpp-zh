@@ -1,6 +1,6 @@
 # C++ 基础知识
 
-> 原文：[`zh.annas-archive.org/md5/b7a01aca57a37dc90e268b7ba3eb4016`](https://zh.annas-archive.org/md5/b7a01aca57a37dc90e268b7ba3eb4016)
+> 原文：[C++ fundamentals : hit the ground running with C++, the language that supports tech giants globally](https://zh.annas-archive.gl/md5/b7a01aca57a37dc90e268b7ba3eb4016)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

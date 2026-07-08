@@ -1,6 +1,6 @@
 # Boost C++ 应用开发秘籍第二版
 
-> 原文：[`annas-archive.org/md5/8a1821d22bcd421390c328e6f1d92500`](https://annas-archive.org/md5/8a1821d22bcd421390c328e6f1d92500)
+> 原文：[Boost C++ Application Development Cookbook - Second Edition : Learn to Build Applications Faster and Better by Leveraging the Real Power of Boost and C++](https://annas-archive.gl/md5/8a1821d22bcd421390c328e6f1d92500)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

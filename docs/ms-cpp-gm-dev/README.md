@@ -1,6 +1,6 @@
 # 精通 C++ 游戏开发
 
-> 原文：[`annas-archive.org/md5/C9DEE6A3AC368562ED493911597C48C0`](https://annas-archive.org/md5/C9DEE6A3AC368562ED493911597C48C0)
+> 原文：[Mastering C++ game development : create professional and realistic 3D games using C++ 17](https://annas-archive.gl/md5/C9DEE6A3AC368562ED493911597C48C0)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

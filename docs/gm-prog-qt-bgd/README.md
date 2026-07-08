@@ -1,6 +1,6 @@
 # QT 游戏编程初学者指南
 
-> 原文：[`zh.annas-archive.org/md5/d8f1f7b7bdb1e30ca6c39c1ae87ed04f`](https://zh.annas-archive.org/md5/d8f1f7b7bdb1e30ca6c39c1ae87ed04f)
+> 原文：[Game Programming Using Qt: Beginner's Guide: A complete guide to designing and building fun games with Qt and Qt Quick 2 using associated toolsets](https://zh.annas-archive.gl/md5/d8f1f7b7bdb1e30ca6c39c1ae87ed04f)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 
