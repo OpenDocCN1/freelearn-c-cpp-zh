@@ -64,6 +64,7 @@
 +   [游戏开发模式与最佳实践](docs/gmdev-ptn-bstprac/README.md)
 +   [虚幻 5 游戏开发模式](docs/gmdev-ptn-ur5/README.md)
 +   [SlimDX 游戏开发](docs/gmdev-slimdx/README.md)
++   [Godot 4 初学者指南](docs/godot-4-for-beginners/README.md)
 +   [C++ 和 CUDA GPU 编程](docs/gpu-programming-with-c-and-cuda/README.md)
 +   [C++ 游戏开发的音频编程入门指南](docs/gtst-cpp-aud-prog-gm-dev/README.md)
 +   [JUCE 入门指南](docs/gtst-juce/README.md)
