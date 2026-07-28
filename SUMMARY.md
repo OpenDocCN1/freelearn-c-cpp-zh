@@ -16,6 +16,7 @@
 +   [Boost.Asio C++ 网络编程秘籍](docs/bst-asio-cpp-netprog-cb/README.md)
 +   [Boost C++ 1.53.0 应用开发秘籍](docs/bst-cpp-1530-appdev-cb/README.md)
 +   [Unreal Engine 5 开放世界景观构建指南](docs/building-open-world-landscapes-with-unreal-engine-5/README.md)
++   [编程语言解释器构建指南](docs/building-programming-language-interpreters/README.md)
 +   [嵌入式系统 C++ 实战 - 第一版](docs/c-in-embedded-systems---first-edition/README.md)
 +   [Arduino C 编程指南](docs/c-prog-ardn/README.md)
 +   [C 编程秘籍](docs/c-prog-cb/README.md)
